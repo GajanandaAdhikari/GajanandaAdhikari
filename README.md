@@ -1,4 +1,4 @@
-# Gajananda Mani Adhikari
+# Gajananda Adhikari
 
 Systems thinker. Security architect. Permanently in the weeds.
 
